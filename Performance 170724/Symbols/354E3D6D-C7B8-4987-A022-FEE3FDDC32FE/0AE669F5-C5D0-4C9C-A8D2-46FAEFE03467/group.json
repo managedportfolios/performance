@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "0AE669F5-C5D0-4C9C-A8D2-46FAEFE03467",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BA2EDCB4-9316-4A17-91C0-4805C145DDBD"
+    },
+    {
+      "class": "group",
+      "id": "F928F71D-1920-4E40-96EB-B2091303CA54"
+    },
+    {
+      "class": "text",
+      "id": "1D4D5696-3377-4A3B-B121-28E7A027D1A7"
+    }
+  ],
+  "name": "Forms/On Light/Checkbox/Checked/Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "0AE669F5-C5D0-4C9C-A8D2-46FAEFE03467",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

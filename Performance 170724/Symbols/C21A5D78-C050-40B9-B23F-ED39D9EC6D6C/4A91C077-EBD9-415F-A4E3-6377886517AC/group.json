@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "4A91C077-EBD9-415F-A4E3-6377886517AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 250,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BC70D10F-0DE8-4A1D-AEBA-FDF3C2FB5118"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A6C0971-B213-45A8-8C40-1E10AB165935"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28D90750-7460-4B46-B0A5-EF2AA3D60262"
+    },
+    {
+      "class": "text",
+      "id": "72B4CFAA-EDD5-42A5-9FF3-0EB13AB052DB"
+    }
+  ],
+  "name": "Search Fields/On Dark/Secondary/Small/With Input",
+  "nameIsFixed": true,
+  "originalObjectID": "4A91C077-EBD9-415F-A4E3-6377886517AC",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

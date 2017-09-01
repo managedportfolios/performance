@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "A3CFE434-2D56-4C0F-AE0A-2A3F4233DAEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14.96499999999994,
+    "width": 23.0532098564539,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DE91420C-5A4C-4A1D-A2B7-38EC4F2CF64C"
+    },
+    {
+      "class": "shapePath",
+      "id": "3582F261-6710-4024-99B3-BED03CDB805E"
+    },
+    {
+      "class": "shapePath",
+      "id": "986F7545-2FA5-4646-9A73-9BBE0BD8B215"
+    },
+    {
+      "class": "shapePath",
+      "id": "27F4E963-CDCC-4FA2-A2D1-16FA7B10A40C"
+    },
+    {
+      "class": "shapePath",
+      "id": "0D13089E-4153-4A35-9221-442E40938C1A"
+    },
+    {
+      "class": "shapePath",
+      "id": "B8EB3BE5-11B9-4A6A-BED9-E20AAA63D544"
+    }
+  ],
+  "name": "Icons/On Dark/Default/eye",
+  "nameIsFixed": true,
+  "originalObjectID": "A3CFE434-2D56-4C0F-AE0A-2A3F4233DAEF",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6705882352941176,
+          "green": 0.6705882352941176,
+          "red": 0.6705882352941176
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

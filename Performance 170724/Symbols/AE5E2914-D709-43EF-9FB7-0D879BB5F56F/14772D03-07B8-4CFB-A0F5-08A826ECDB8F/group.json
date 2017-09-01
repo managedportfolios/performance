@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "14772D03-07B8-4CFB-A0F5-08A826ECDB8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 111,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "58D3C4FA-9374-471E-BFE0-B2426B228D4B"
+    },
+    {
+      "class": "text",
+      "id": "F29F329C-5FBB-4085-89D3-88A87CEB947F"
+    },
+    {
+      "class": "group",
+      "id": "0F78AAB1-7BCA-4273-BAF9-7906B274AC06"
+    }
+  ],
+  "name": "Forms/On Light/Radio Button/Selected/Disabled",
+  "nameIsFixed": true,
+  "originalObjectID": "14772D03-07B8-4CFB-A0F5-08A826ECDB8F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

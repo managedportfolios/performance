@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "ACBE43FA-3258-4AEB-A5F7-151F2C31CC69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CE215A54-26CD-494A-B781-7AD179F8E795"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3AB9F0A-157D-4118-956F-117E2FC8DBCE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE671C3A-75B5-457D-B6B3-477BC0638209"
+    },
+    {
+      "class": "text",
+      "id": "DC7715E0-31CE-48A5-9340-2A0C008943E6"
+    }
+  ],
+  "name": "Forms/On Dark/Radio Button/Unselected/Focus",
+  "nameIsFixed": true,
+  "originalObjectID": "ACBE43FA-3258-4AEB-A5F7-151F2C31CC69",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "E116C788-C8CF-4535-99D2-D9F7E4BC7517",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FAA72662-5088-4DE0-BD48-F73B38A5653D"
+    },
+    {
+      "class": "text",
+      "id": "0BD31C16-FB34-467D-8016-D545BA739D8F"
+    }
+  ],
+  "name": "Switches/On Dark/On/Disabled",
+  "nameIsFixed": true,
+  "originalObjectID": "E116C788-C8CF-4535-99D2-D9F7E4BC7517",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

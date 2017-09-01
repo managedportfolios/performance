@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "1BF0018E-C99D-4715-9E85-2EB00E538F8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 99,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7508778D-917D-4DE0-A64D-4A42E6B579C4"
+    },
+    {
+      "class": "text",
+      "id": "BD8648D2-3396-4DE8-AC3B-5B041B72FC09"
+    }
+  ],
+  "name": "Button Groups/On Light/Medium/Left/Focus",
+  "nameIsFixed": true,
+  "originalObjectID": "1BF0018E-C99D-4715-9E85-2EB00E538F8B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

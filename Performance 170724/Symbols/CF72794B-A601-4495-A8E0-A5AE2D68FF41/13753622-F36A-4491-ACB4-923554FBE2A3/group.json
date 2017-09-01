@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "13753622-F36A-4491-ACB4-923554FBE2A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 508,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF776C30-0CE4-4DB8-ABE7-7C76E3508D08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F4DB312-5761-4560-8F62-10A38CD78A9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46EAF413-E950-4BF1-A4FC-A29FCCD6E70E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F69B1E2C-CA93-4967-870C-45E83ED4AFD5"
+    }
+  ],
+  "name": "Range Sliders/On Light/Single Selection/Default",
+  "nameIsFixed": true,
+  "originalObjectID": "13753622-F36A-4491-ACB4-923554FBE2A3",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

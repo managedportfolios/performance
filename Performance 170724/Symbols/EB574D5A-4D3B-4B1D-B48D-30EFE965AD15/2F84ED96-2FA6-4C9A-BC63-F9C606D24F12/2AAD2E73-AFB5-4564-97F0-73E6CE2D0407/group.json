@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "2AAD2E73-AFB5-4564-97F0-73E6CE2D0407",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 19,
+    "x": 0,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B476512-4B89-4139-9C4C-C25607941095"
+    }
+  ],
+  "name": "Containers/Tooltip/Edge Carat",
+  "nameIsFixed": false,
+  "originalObjectID": "2AAD2E73-AFB5-4564-97F0-73E6CE2D0407",
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "A9FB7677-A7A1-4880-AE2D-EA7F0BCF9A9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 91,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8A0AAC34-685B-466C-B6CB-0F528217568D"
+    },
+    {
+      "class": "text",
+      "id": "318B75E9-5F73-4B9C-8B55-931F663E059A"
+    }
+  ],
+  "name": "Buttons/On Dark/Flat/Small/Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "A9FB7677-A7A1-4880-AE2D-EA7F0BCF9A9A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "47A7FBBC-AA52-46E4-9529-ED8E3899283E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 201,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "084BB2D8-FBE1-4261-BC9A-4E158148B710"
+    },
+    {
+      "class": "text",
+      "id": "EC6B3926-7023-4B80-AA6F-46BF04B1F4B6"
+    }
+  ],
+  "name": "Forms/On Dark/Labels/Error Text",
+  "nameIsFixed": true,
+  "originalObjectID": "47A7FBBC-AA52-46E4-9529-ED8E3899283E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "A2F65E71-74C8-4A66-A505-1E7AAFC7FF02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "565FDA79-20B1-4407-981B-4DB4969B1582"
+    },
+    {
+      "class": "text",
+      "id": "76D988BF-B5F7-4C0F-BD47-F7555FB278E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49EF8BC7-EEEC-4A89-BE1A-B04A16F944AE"
+    }
+  ],
+  "name": "Forms/On Dark/Text Box/Medium/Focus",
+  "nameIsFixed": true,
+  "originalObjectID": "A2F65E71-74C8-4A66-A505-1E7AAFC7FF02",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

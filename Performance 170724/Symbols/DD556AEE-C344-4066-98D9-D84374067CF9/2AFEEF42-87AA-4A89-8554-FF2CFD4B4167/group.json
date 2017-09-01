@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "2AFEEF42-87AA-4A89-8554-FF2CFD4B4167",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F2BA5635-A698-4B31-85DF-BBCB433D71C4"
+    },
+    {
+      "class": "group",
+      "id": "DCAF8BA4-CD62-41BB-A3E9-F10BCCAF6FD3"
+    },
+    {
+      "class": "text",
+      "id": "3E55B8B2-8B97-4A8F-AF17-981C1C97E482"
+    }
+  ],
+  "name": "Forms/On Dark/Checkbox/Checked/Disabled",
+  "nameIsFixed": true,
+  "originalObjectID": "2AFEEF42-87AA-4A89-8554-FF2CFD4B4167",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

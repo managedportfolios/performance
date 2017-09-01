@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "31197AEC-FD9B-4D41-B03D-3895E2FBE531",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 616,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "437B9D25-D0D0-4351-9799-5581AD2C2B71"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31C9F6EF-5E8E-4A36-BC21-AA530FB2C032"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "994BEE31-9CB0-4D01-8B5D-511E4F305BAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FCFBD93B-350B-434B-A972-0EAB6785764D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CC8BE1A-E7C5-4129-AA7C-0B4F06AE2097"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A5E7B05-15EA-433D-BF39-AC805090D852"
+    }
+  ],
+  "name": "Range Sliders/On Light/Range Selection/Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "31197AEC-FD9B-4D41-B03D-3895E2FBE531",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

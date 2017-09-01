@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "47D8C579-2F90-4F3D-90E6-E14BB2F7B269",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18.97998394011563,
+    "width": 20.035,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C7AA5BEE-FCB2-4908-BCDC-20E9C96C0907"
+    },
+    {
+      "class": "shapePath",
+      "id": "67D15840-B82D-44B8-8F96-59D3D54069A1"
+    },
+    {
+      "class": "shapePath",
+      "id": "623E60FA-F327-42FD-B7C0-238BD808D926"
+    },
+    {
+      "class": "shapePath",
+      "id": "964C2809-9518-413D-B399-F3E94AC0BC5A"
+    },
+    {
+      "class": "shapePath",
+      "id": "28E1FB62-D954-4029-B539-BA71BFDE9F97"
+    }
+  ],
+  "name": "Icons/On Dark/Default/chat-bubble",
+  "nameIsFixed": true,
+  "originalObjectID": "47D8C579-2F90-4F3D-90E6-E14BB2F7B269",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6705882352941176,
+          "green": 0.6705882352941176,
+          "red": 0.6705882352941176
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

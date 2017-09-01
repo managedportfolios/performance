@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "5294AFC2-FEC8-4248-A04D-1DE7342C9EBA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "64A77589-5AE4-4875-B05A-F035A3F7F449"
+    },
+    {
+      "class": "text",
+      "id": "432C6E8D-F010-4D79-B150-8C7EC149FD56"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B339D1AD-58AB-439F-BB80-FCD01EDA674C"
+    }
+  ],
+  "name": "Forms/On Light/Text Box/Large/Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "5294AFC2-FEC8-4248-A04D-1DE7342C9EBA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7B3A67EA-0C0E-4573-9543-D563059FDF75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21.9952,
+    "width": 18.9952,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "01D0B651-5D25-4585-AEB3-27AC82087604"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B5757FB-ED93-4314-997A-536E505C3168"
+    },
+    {
+      "class": "shapePath",
+      "id": "0B3C75AF-78BA-4AE3-B54E-3B5B31B5DEAF"
+    },
+    {
+      "class": "shapePath",
+      "id": "967B023B-8FE5-4BFA-B351-8B8C6AAFB570"
+    },
+    {
+      "class": "shapePath",
+      "id": "3549F228-E5F0-4EF6-801F-C797F6BC3976"
+    }
+  ],
+  "name": "Icons/On Light/Default/file-cabinet-padless",
+  "nameIsFixed": true,
+  "originalObjectID": "7B3A67EA-0C0E-4573-9543-D563059FDF75",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3686274509803922,
+          "green": 0.3686274509803922,
+          "red": 0.3686274509803922
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

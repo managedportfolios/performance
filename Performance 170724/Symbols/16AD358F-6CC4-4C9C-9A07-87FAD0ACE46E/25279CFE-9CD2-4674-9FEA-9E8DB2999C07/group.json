@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "25279CFE-9CD2-4674-9FEA-9E8DB2999C07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 350,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "098E387F-5126-42F5-99A7-C00AC4EDBED3"
+    },
+    {
+      "class": "text",
+      "id": "CCC5920C-935C-4ED2-B570-B83D0C276C61"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73FFF32E-D256-4A60-9658-F4AFF78222F3"
+    }
+  ],
+  "name": "Forms/On Dark/Text Area/Medium/Disabled",
+  "nameIsFixed": true,
+  "originalObjectID": "25279CFE-9CD2-4674-9FEA-9E8DB2999C07",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7E1F35AC-D0A2-4A1D-9B3A-8E4E107F73EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 21,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E57C7485-73F0-47DA-AA1B-C75450E1E669"
+    },
+    {
+      "class": "shapePath",
+      "id": "97E02814-5ED9-4434-BCE8-3E4D243F78FD"
+    },
+    {
+      "class": "rectangle",
+      "id": "8A3612B0-6E8B-4FDF-8AD4-C5B5D4660AB6"
+    },
+    {
+      "class": "rectangle",
+      "id": "AE204494-B5FA-4B14-AA6E-A285DB610260"
+    }
+  ],
+  "name": "Icons/On Dark/Default/pause-circle",
+  "nameIsFixed": true,
+  "originalObjectID": "7E1F35AC-D0A2-4A1D-9B3A-8E4E107F73EA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6705882352941176,
+          "green": 0.6705882352941176,
+          "red": 0.6705882352941176
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "CD6A2CD5-EFC5-4786-B7D1-BC4F4FA6C12A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 163,
+    "width": 513,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A087498E-60BB-4E62-832A-52C09894396B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "538E0CF4-5880-4F18-8CD8-3F249D5DBBB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "358E19B8-9C89-4909-9FF2-3F0BD841DA7B"
+    }
+  ],
+  "name": "Popovers/Default/Corner/Large",
+  "nameIsFixed": true,
+  "originalObjectID": "CD6A2CD5-EFC5-4786-B7D1-BC4F4FA6C12A",
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

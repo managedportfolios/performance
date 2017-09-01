@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "1F5EB175-C6E6-4DDC-8435-610B246BDD2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 44,
+    "x": 557,
+    "y": 319
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FB4E43BD-2480-4023-8BE1-3C52AAF803F1"
+    }
+  ],
+  "name": "Data Tables/On Light/Column Header/Numeric",
+  "nameIsFixed": true,
+  "originalObjectID": "567D0715-C7CA-43CC-8D3F-273EFD6FC9BB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

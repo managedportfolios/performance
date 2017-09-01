@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "ED5788BF-4FF0-41F8-AA12-219C4CA5CF22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "65586843-70B7-4E5A-AB38-3A50BA237FB1"
+    },
+    {
+      "class": "text",
+      "id": "03B58D3B-133F-4E05-8901-15759CFF88AD"
+    },
+    {
+      "class": "group",
+      "id": "A9E567E9-AA0D-41FC-81F7-CBE7E467E079"
+    }
+  ],
+  "name": "Forms/On Dark/Radio Button/Selected/Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "ED5788BF-4FF0-41F8-AA12-219C4CA5CF22",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

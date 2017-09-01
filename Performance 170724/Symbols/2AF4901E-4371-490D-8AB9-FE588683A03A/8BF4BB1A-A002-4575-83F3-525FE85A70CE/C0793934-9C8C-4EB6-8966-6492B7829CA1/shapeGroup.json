@@ -1,0 +1,88 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "C0793934-9C8C-4EB6-8966-6492B7829CA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 7.000000000000071,
+    "x": 3.924621202458752,
+    "y": 0.4246212024590363
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8B52ACB3-AEFC-4BE2-A091-C4480F80EC16"
+    }
+  ],
+  "name": "Containers/Tooltip/Edge Carat",
+  "nameIsFixed": true,
+  "originalObjectID": "C0793934-9C8C-4EB6-8966-6492B7829CA1",
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": -225,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3686274509803922,
+          "green": 0.3686274509803922,
+          "red": 0.3686274509803922
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 14,
+            "enabled": 1,
+            "modelID": "constraint_18a82694-5325-465d-91c2-8ed729600ecd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 7
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1c90babf-6d99-40c6-b001-77d72c4e7818",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

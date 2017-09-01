@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaGlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNUBDRkpOVldYWVpeYmRVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANeQ2hlY2tib3ggTGFiZWzTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4APgBdXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMTE3NjQ3MDU4OCAwLjExNzY0NzA1ODggMC4xMTc2NDcwNTg4ABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdY2Nzg5Cjo7PD08Pz1aTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAMI0A2AAAAAAAAgAyADtISCkFCoIAN0iwtREVXTlNBcnJheaJEMdIsLUdIXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjR0kxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKS0xNXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCk9SVaJQUYARgBKiU1SAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QF1VuaXZlcnNOZXh0Zm9yTU9STi1Dbkx00iwtW1xfEBNOU011dGFibGVEaWN0aW9uYXJ5o1tdMVxOU0RpY3Rpb25hcnnSLC1fYF8QEE5TRm9udERlc2NyaXB0b3KiYTFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtXWOiXTHSLC1lZl8QEk5TQXR0cmlidXRlZFN0cmluZ6JnMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFqa1Ryb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwCSAJkAoQCsALAAsgC0ALYAugC8AL4AwADCAMoA3QD/AQgBDgEbATABWgFcAV4BYAFlAWoBbAFuAXMBfgGHAZQBlwGkAa0BsgG6Ab0BygHVAeEB8wIAAhICFAIWAh8CIQIjAigCKQIrAjACOAI7AkACWgJeAnECdgKTApUClwKeAqECowKlAqgCqgKsAq4CxALaAuMC/QMCAxgDHAMpAy4DQQNEA1cDXANfA2QDeQN8A5EDowOmA6sAAAAAAAACAQAAAAAAAABsAAAAAAAAAAAAAAAAAAADrQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "8BDEF039-B5F5-42E1-89D2-C79B46EF0DA2",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 90,
+    "x": 21,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {89, 18}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Checkbox Label",
+  "nameIsFixed": false,
+  "originalObjectID": "8BDEF039-B5F5-42E1-89D2-C79B46EF0DA2",
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2E7DC207-761B-42CD-BF5C-05F06E6B2654"
+  },
+  "textBehaviour": 0
+}

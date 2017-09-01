@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "4B7F8343-476A-4766-A527-84D882F1746C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 121,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DBCB72A6-0492-4581-B5AF-025424613E01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E8121F0-0E94-45E2-B447-830BCFEA6A1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34E810A5-45CA-4128-B17E-E3C6070031DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7F27AC6-05EE-426E-A00B-F57D0363E5FF"
+    },
+    {
+      "class": "text",
+      "id": "D217407B-0842-443C-B786-116C518656E2"
+    }
+  ],
+  "name": "Dialogs/With Third Action",
+  "nameIsFixed": true,
+  "originalObjectID": "4B7F8343-476A-4766-A527-84D882F1746C",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

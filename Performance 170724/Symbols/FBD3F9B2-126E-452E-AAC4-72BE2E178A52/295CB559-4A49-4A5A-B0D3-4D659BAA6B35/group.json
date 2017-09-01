@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "295CB559-4A49-4A5A-B0D3-4D659BAA6B35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F1833A4F-7F2C-4F43-935D-B61731B620CC"
+    },
+    {
+      "class": "text",
+      "id": "42B0D997-E191-4043-9DC1-D180DD43736D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BB940948-CEA6-4114-BF23-9F249E9B48E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E34341B-A1F3-4286-9AF3-E953C8890FDC"
+    }
+  ],
+  "name": "Forms/On Dark/Select/Medium/Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "295CB559-4A49-4A5A-B0D3-4D659BAA6B35",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

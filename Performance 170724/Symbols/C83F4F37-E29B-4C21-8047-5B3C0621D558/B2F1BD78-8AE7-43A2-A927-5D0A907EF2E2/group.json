@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "B2F1BD78-8AE7-43A2-A927-5D0A907EF2E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 102,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F8E4CA77-AF57-4289-B5F4-886C25C153EA"
+    },
+    {
+      "class": "group",
+      "id": "2B191A8D-1008-40DC-A52D-0CE717545651"
+    },
+    {
+      "class": "text",
+      "id": "00B61939-D752-49F7-8B94-67F83C2B5938"
+    }
+  ],
+  "name": "Switches/On Light/On/Focus",
+  "nameIsFixed": true,
+  "originalObjectID": "B2F1BD78-8AE7-43A2-A927-5D0A907EF2E2",
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

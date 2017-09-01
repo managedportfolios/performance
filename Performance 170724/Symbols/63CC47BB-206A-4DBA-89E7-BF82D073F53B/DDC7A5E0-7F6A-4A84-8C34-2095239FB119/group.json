@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "DDC7A5E0-7F6A-4A84-8C34-2095239FB119",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 208,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E9C18D2F-929F-4946-8058-A46E5FAE8FFC"
+    },
+    {
+      "class": "text",
+      "id": "5AAD3708-71AE-4283-8157-60A785193758"
+    },
+    {
+      "class": "group",
+      "id": "8F3BCA53-A84D-490A-9994-AC4DAA2B44D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5519EA6-C34B-4597-B1A4-E795EAA6AD21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "713C2303-7939-4097-88B0-93C2C3EF001C"
+    }
+  ],
+  "name": "Tooltips/Prompt/Right",
+  "nameIsFixed": true,
+  "originalObjectID": "DDC7A5E0-7F6A-4A84-8C34-2095239FB119",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

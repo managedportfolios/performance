@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "0F0360DB-2BAF-46FA-8037-68C9087DC641",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "52F64C3C-0BFD-4FB1-9A11-2A9E2242B7E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A748290B-E314-4983-A26C-3020B614AAFD"
+    },
+    {
+      "class": "group",
+      "id": "8F17D722-4096-4462-9AB8-467897485632"
+    },
+    {
+      "class": "text",
+      "id": "E7C374D6-0D16-470F-A324-D41CCBDF9AA0"
+    }
+  ],
+  "name": "Forms/On Dark/Checkbox/Checked/Focus",
+  "nameIsFixed": true,
+  "originalObjectID": "0F0360DB-2BAF-46FA-8037-68C9087DC641",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

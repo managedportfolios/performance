@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "9EB151E0-F28B-4049-B004-BAC626A919A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 201,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "70269B9C-4E95-4546-B812-A9F596925023"
+    },
+    {
+      "class": "text",
+      "id": "5DCF1BE6-97BB-49EB-AC07-10D64C62ABBC"
+    }
+  ],
+  "name": "Forms/On Dark/Labels/Microcopy/Below",
+  "nameIsFixed": true,
+  "originalObjectID": "9EB151E0-F28B-4049-B004-BAC626A919A1",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

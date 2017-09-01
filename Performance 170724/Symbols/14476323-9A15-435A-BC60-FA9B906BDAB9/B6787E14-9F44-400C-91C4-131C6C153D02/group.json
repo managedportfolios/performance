@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B6787E14-9F44-400C-91C4-131C6C153D02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CAB61D0C-1B06-4C74-8C2E-C84FA833CA64"
+    },
+    {
+      "class": "text",
+      "id": "B5C5C8D9-696A-47B6-BC21-A7AD1A6241B6"
+    }
+  ],
+  "name": "Switches/On Light/Off/Default",
+  "nameIsFixed": true,
+  "originalObjectID": "B6787E14-9F44-400C-91C4-131C6C153D02",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

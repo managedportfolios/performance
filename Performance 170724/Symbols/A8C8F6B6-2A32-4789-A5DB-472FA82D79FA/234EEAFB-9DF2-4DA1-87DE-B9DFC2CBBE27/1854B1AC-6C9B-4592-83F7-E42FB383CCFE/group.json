@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "1854B1AC-6C9B-4592-83F7-E42FB383CCFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 55,
+    "x": 64,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A6003E82-8505-4687-9BE3-8EFD8BFCA0FF"
+    },
+    {
+      "class": "text",
+      "id": "343BA07A-BE04-4339-8248-9A87D0C8EA0E"
+    }
+  ],
+  "name": "Previous Button (Disabled",
+  "nameIsFixed": true,
+  "originalObjectID": "1854B1AC-6C9B-4592-83F7-E42FB383CCFE",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

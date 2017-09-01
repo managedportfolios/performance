@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "01538A83-DAA8-4475-ABD8-06CCED5FEF26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 91,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B00B324F-67DE-4805-98DA-E006425F9196"
+    },
+    {
+      "class": "text",
+      "id": "A65E3F91-CE19-40A8-8DC0-BF06C43A99DA"
+    }
+  ],
+  "name": "Buttons/On Dark/Primary/Small/Focus",
+  "nameIsFixed": true,
+  "originalObjectID": "01538A83-DAA8-4475-ABD8-06CCED5FEF26",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

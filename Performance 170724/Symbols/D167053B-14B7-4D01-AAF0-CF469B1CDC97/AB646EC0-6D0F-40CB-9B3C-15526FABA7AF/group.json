@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "AB646EC0-6D0F-40CB-9B3C-15526FABA7AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A42CB46-B5EC-459E-A041-DB93F345BFD5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E53DB71A-1261-46AD-86F7-143C8D7271AB"
+    },
+    {
+      "class": "text",
+      "id": "F9FCD296-37C8-462B-8BD3-D7860B9A445B"
+    }
+  ],
+  "name": "Forms/On Dark/Checkbox/Unchecked/Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "AB646EC0-6D0F-40CB-9B3C-15526FABA7AF",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

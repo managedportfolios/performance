@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "22E48C79-02F4-4856-AF3B-67AB7A99827C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 38,
+    "x": 16,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "481FC771-C071-4227-B018-47BD69E2CD3C"
+    },
+    {
+      "class": "text",
+      "id": "03524029-CCED-4D6D-AA48-8E4373932E13"
+    }
+  ],
+  "name": "First Button (Disabled)",
+  "nameIsFixed": true,
+  "originalObjectID": "22E48C79-02F4-4856-AF3B-67AB7A99827C",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

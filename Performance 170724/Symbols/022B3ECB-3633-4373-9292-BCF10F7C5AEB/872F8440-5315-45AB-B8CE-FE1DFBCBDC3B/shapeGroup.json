@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "872F8440-5315-45AB-B8CE-FE1DFBCBDC3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21.00000000000001,
+    "width": 16.0020613212713,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "CE670C75-78E3-4E84-9640-2E4E228A6303"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFD64724-BCB5-4AD5-9445-3886A2D8FE22"
+    },
+    {
+      "class": "shapePath",
+      "id": "B349341C-BE1C-4A5C-9906-E4BE1483ACEB"
+    },
+    {
+      "class": "shapePath",
+      "id": "E1B66B01-D0C4-449A-99A7-11E585CA139C"
+    },
+    {
+      "class": "shapePath",
+      "id": "6295D4CC-AB72-4D1F-9E79-8EA1A6F6353C"
+    }
+  ],
+  "name": "Icons/On Light/Default/hand",
+  "nameIsFixed": true,
+  "originalObjectID": "872F8440-5315-45AB-B8CE-FE1DFBCBDC3B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3686274509803922,
+          "green": 0.3686274509803922,
+          "red": 0.3686274509803922
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

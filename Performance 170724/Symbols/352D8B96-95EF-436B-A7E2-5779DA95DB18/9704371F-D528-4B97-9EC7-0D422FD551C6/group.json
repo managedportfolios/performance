@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "9704371F-D528-4B97-9EC7-0D422FD551C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D383F841-F6C6-4A77-A349-99565027A5E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11A6BB9A-B10B-4C20-994B-A6728B65CD55"
+    },
+    {
+      "class": "text",
+      "id": "31D26270-2AE0-472F-B529-58B110A251F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F9F23EE-3393-4624-B082-8F6D0C81F5C0"
+    }
+  ],
+  "name": "List Groups/On Light/Small/Selected Item",
+  "nameIsFixed": true,
+  "originalObjectID": "9704371F-D528-4B97-9EC7-0D422FD551C6",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

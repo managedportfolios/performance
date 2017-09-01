@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "62CAD495-771E-4431-BF6D-23D813B16012",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "361FB3A4-5AB6-4BD2-BBCD-A86D797534AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E470692E-FA81-435A-9852-FB90284AC368"
+    },
+    {
+      "class": "text",
+      "id": "D6FED791-A4AA-4EF7-AEF4-9D4CDE924408"
+    }
+  ],
+  "name": "Forms/On Dark/Radio Button/Unselected/Default",
+  "nameIsFixed": true,
+  "originalObjectID": "62CAD495-771E-4431-BF6D-23D813B16012",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

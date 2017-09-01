@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "4EEA0DD5-E448-4A74-9464-05EADE1C0412",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 557,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9457A618-B01D-4DAD-97D1-C4A67DD942AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30C27AF0-B15B-4FFE-8625-6E6414159A58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB1148E6-C385-4793-941B-F9EDEAC078AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF913CFB-1EA3-4CE0-B5A8-00858B5210E5"
+    },
+    {
+      "class": "text",
+      "id": "CAB4BC20-45E0-406D-91A0-5CF1AACB0A87"
+    }
+  ],
+  "name": "Notifications/Two Line Message",
+  "nameIsFixed": true,
+  "originalObjectID": "4EEA0DD5-E448-4A74-9464-05EADE1C0412",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "AD5699C5-DDB4-4846-8BDA-F7ED15AF1571",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "218100EE-49C0-4E3F-A2AA-55E12A198C51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "826C0557-D153-4882-BA2F-5D743D87B6F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D9000DC-2BA3-4DC6-8AD1-9DF900CD252A"
+    },
+    {
+      "class": "text",
+      "id": "8DF14762-409B-47DD-B123-3776B66B3715"
+    }
+  ],
+  "name": "Data Tables/On Dark/Column Header/Selected Numeric",
+  "nameIsFixed": true,
+  "originalObjectID": "AD5699C5-DDB4-4846-8BDA-F7ED15AF1571",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "8EEFA7A4-4312-4A4C-A743-41460FB3060B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 39,
+    "x": 314,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98127FC2-6AA4-4C13-BD11-25E36C502ED8"
+    },
+    {
+      "class": "text",
+      "id": "1C8764B3-F2CF-41E7-A397-B413AB88858E"
+    }
+  ],
+  "name": "Last Button",
+  "nameIsFixed": true,
+  "originalObjectID": "8EEFA7A4-4312-4A4C-A743-41460FB3060B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

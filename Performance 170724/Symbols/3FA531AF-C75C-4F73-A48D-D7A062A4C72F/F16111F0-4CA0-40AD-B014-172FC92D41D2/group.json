@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "F16111F0-4CA0-40AD-B014-172FC92D41D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 616,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5E1D7DA1-364F-4B3A-B816-1FFFF6306113"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE15AB43-5976-4487-B196-B8ADBB6C164C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B25C566D-2F72-4682-A611-516F5F2DD71E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "60DAFCA0-6A3D-43FA-96AC-724E77DF28F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAD12D70-D2AA-475F-AD85-793DC987FB88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95B3AE43-0FB7-4914-8328-A54E45069EA0"
+    }
+  ],
+  "name": "Range Sliders/On Light/Range Selection/Default ",
+  "nameIsFixed": true,
+  "originalObjectID": "F16111F0-4CA0-40AD-B014-172FC92D41D2",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "B063A93E-41C1-42AD-B55A-CC4E465F81D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6060E0F5-44E2-41C8-87FC-4F6F6E35C7E2"
+    },
+    {
+      "class": "text",
+      "id": "462D37E1-A590-48F5-AFDB-476777521BCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BCF57236-E894-4E95-ACD4-1F2A7B9B0BCE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD2B6C70-6480-425A-9DF9-0C7383A489FD"
+    }
+  ],
+  "name": "Forms/On Light/Select/Small/Focus",
+  "nameIsFixed": true,
+  "originalObjectID": "B063A93E-41C1-42AD-B55A-CC4E465F81D9",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

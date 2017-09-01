@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "2517A4D5-F306-4641-A879-EEF50A422191",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 65,
+    "x": 1046,
+    "y": 392
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EA9FC3AC-5940-41FF-AE6B-9DCFC1C35E4E"
+    },
+    {
+      "class": "text",
+      "id": "0F468FBB-EA60-42F1-B028-25AA0913ED6A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44F3DE69-83D2-446F-A66A-0DCCF13036DE"
+    }
+  ],
+  "name": "Data Tables/On Light/Cell/Alphabetic Cell",
+  "nameIsFixed": true,
+  "originalObjectID": "E7A286A2-92E9-4BE5-A25E-354A889A9A53",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

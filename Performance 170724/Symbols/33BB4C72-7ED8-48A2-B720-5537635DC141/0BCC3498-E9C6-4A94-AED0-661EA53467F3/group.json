@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "0BCC3498-E9C6-4A94-AED0-661EA53467F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7C0ADA5C-91C2-4073-AEC8-64587D751CD8"
+    },
+    {
+      "class": "text",
+      "id": "E615AE4F-D8CC-4309-8DFE-C9BFBAAD9FDE"
+    }
+  ],
+  "name": "Switches/On Dark/On/Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "0BCC3498-E9C6-4A94-AED0-661EA53467F3",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

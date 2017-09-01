@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B518A16A-E437-4162-8C98-305B84B932E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 91,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0043114F-9A0D-47AA-B997-D69F5F2BC10F"
+    },
+    {
+      "class": "text",
+      "id": "07BA97EA-C5EC-4FA2-AD06-750F0AED03CE"
+    }
+  ],
+  "name": "Buttons/On Light/Flat/Small/Disabled",
+  "nameIsFixed": true,
+  "originalObjectID": "B518A16A-E437-4162-8C98-305B84B932E6",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

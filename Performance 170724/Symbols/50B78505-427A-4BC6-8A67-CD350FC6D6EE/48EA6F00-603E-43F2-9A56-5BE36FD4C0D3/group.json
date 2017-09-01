@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "48EA6F00-603E-43F2-9A56-5BE36FD4C0D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C0E77E35-1198-4C98-B9C6-F028DEC7F1E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EABC9125-4C4F-4CF4-A5E1-94C408E97FD7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "075E0995-852A-4430-B899-93729158D78F"
+    },
+    {
+      "class": "text",
+      "id": "155B9279-8739-48A5-9264-9955D754B04D"
+    }
+  ],
+  "name": "Data Tables/On Light/Column Header/Selected Alphabetic",
+  "nameIsFixed": true,
+  "originalObjectID": "48EA6F00-603E-43F2-9A56-5BE36FD4C0D3",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

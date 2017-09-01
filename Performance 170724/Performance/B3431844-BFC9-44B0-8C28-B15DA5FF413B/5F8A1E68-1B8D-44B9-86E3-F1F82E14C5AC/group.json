@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "5F8A1E68-1B8D-44B9-86E3-F1F82E14C5AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 200,
+    "x": 10,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2CBBB1AF-4DFA-4B2D-97A7-D42E95D6B3E7"
+    },
+    {
+      "class": "text",
+      "id": "CE4886E1-5FDC-4E8C-850A-EC0165AAC484"
+    },
+    {
+      "class": "text",
+      "id": "01E7BE17-B22B-48C8-88C2-47F9C5B74AD5"
+    },
+    {
+      "class": "text",
+      "id": "B7133984-CAED-4E38-B952-759788E484A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E0D2F972-49CA-4B49-85A4-756240622134"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6DB74D3E-1012-4FDB-9944-9129A8378A04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB7627BA-52A8-4630-AA11-620E1842BE0D"
+    }
+  ],
+  "name": "Forms/Combo Box/Combo Box Active",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
